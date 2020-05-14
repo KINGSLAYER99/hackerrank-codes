@@ -1,2 +1,2 @@
 # hackerrank-codes
-Extensive codes of my hackerrank journey 
+Codes which took me some time to solve in my coding journey, and the codes I am yet to solve 
